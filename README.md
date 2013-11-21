@@ -35,6 +35,7 @@ Getting started:
    Execute 'parseResultsFile.py' to interpret results.
 
 References:
- [1] Dyer K.P., Coull S.E., Ristenpart T., Shrimpton T. Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail, To appear at IEEE Security and Privacy 2012
- [2] Marc Liberatore and Brian Neil Levine, Inferring the Source of Encrypted HTTP Connections. Proceedings of the 13th ACM Conference on Computer and Communications Security (CCS 2006)
- [3] Dominik Herrmann, Rolf Wendolsky, and Hannes Federrath. Website Fingerprinting: Attacking Popular Privacy Enhancing Technologies with the Multinomial Naive-Bayes Classiﬁer. In Proceedings of the ACM Workshop on Cloud Computing Security, pages 31–42, November 2009.
+
+* [1] Dyer K.P., Coull S.E., Ristenpart T., Shrimpton T. Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail, To appear at IEEE Security and Privacy 2012
+* [2] Marc Liberatore and Brian Neil Levine, Inferring the Source of Encrypted HTTP Connections. Proceedings of the 13th ACM Conference on Computer and Communications Security (CCS 2006)
+* [3] Dominik Herrmann, Rolf Wendolsky, and Hannes Federrath. Website Fingerprinting: Attacking Popular Privacy Enhancing Technologies with the Multinomial Naive-Bayes Classiﬁer. In Proceedings of the ACM Workshop on Cloud Computing Security, pages 31–42, November 2009.
