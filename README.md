@@ -24,7 +24,7 @@ Requirements
 * Liberatore and Levine [2] WebIdent 2 Traces (http://traces.cs.umass.edu/index.php/Network/Network)
 * Herrmann et al. [3] MySQL Dataset (http://epub.uni-regensburg.de/11919)
 
-Getting started:
+### Getting started
 
 1. Open config.py and set:
    * WEKA_ROOT to a directory that contains WEKA
@@ -34,8 +34,8 @@ Getting started:
 3. Output from main.py is placed the 'output' directory.
    Execute 'parseResultsFile.py' to interpret results.
 
-References:
-
+References
+----------
 * [1] Dyer K.P., Coull S.E., Ristenpart T., Shrimpton T. Peek-a-Boo, I Still See You: Why Efficient Traffic Analysis Countermeasures Fail, To appear at IEEE Security and Privacy 2012
 * [2] Marc Liberatore and Brian Neil Levine, Inferring the Source of Encrypted HTTP Connections. Proceedings of the 13th ACM Conference on Computer and Communications Security (CCS 2006)
 * [3] Dominik Herrmann, Rolf Wendolsky, and Hannes Federrath. Website Fingerprinting: Attacking Popular Privacy Enhancing Technologies with the Multinomial Naive-Bayes Classiﬁer. In Proceedings of the ACM Workshop on Cloud Computing Security, pages 31–42, November 2009.
