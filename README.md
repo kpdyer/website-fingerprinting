@@ -17,7 +17,7 @@ Notes
 Requirements
 ------------
 
-* Required RHEL5 packages: mysql mysql-server memcached python-memcached MySQL-python python-devel gcc python-dpkt atlas atlas-devel lapack lapack-devel blas blas-devel glpk-devel g2clib-devel compat-libf2c-34 compat-gcc-34-g77
+* Required RHEL5 packages: ```mysql mysql-server memcached python-memcached MySQL-python python-devel gcc python-dpkt atlas atlas-devel lapack lapack-devel blas blas-devel glpk-devel g2clib-devel compat-libf2c-34 compat-gcc-34-g77```
 * For Traffic Morphing install cvxopt-0.9 from source
 * Python 2.4 or later (Installed on RHEL5 by default)
 * WEKA (http://www.cs.waikato.ac.nz/ml/weka/)
